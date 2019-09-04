@@ -15,5 +15,6 @@ public class IDController {
 		System.out.println("skdfsdfmsbdfnsbdmfbsmndbf");
 		System.out.println("laeirhkjdfbnsbfnbsdnfb");
 		System.out.println("sdfnsdbfs dsdfs dnf sdf");
+		System.out.println("对对");
 	}
 }
