@@ -21,6 +21,11 @@ public class IDController {
 		System.out.println("zyfsd");
 		System.out.println("zfysb");
 		System.out.println("zfy2b");
+<<<<<<< HEAD
 		System.out.println("陈发财白眼狼");
+=======
+		System.out.println("gfgggghfghfh");
+
+>>>>>>> branch 'master' of https://github.com/CFCchenfacai/day1122.git
 	}
 }
