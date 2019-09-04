@@ -21,6 +21,6 @@ public class IDController {
 		System.out.println("zyfsd");
 		System.out.println("zfysb");
 		System.out.println("zfy2b");
-
+		System.out.println("陈发财白眼狼");
 	}
 }
